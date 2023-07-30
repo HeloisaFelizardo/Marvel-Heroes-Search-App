@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/challenge-frontend-fpass/static/css/main.c5fca71f.css",
-    "main.js": "/challenge-frontend-fpass/static/js/main.b0b7fa39.js",
-    "static/media/logo.svg": "/challenge-frontend-fpass/static/media/logo.be1f937a60f9541049ba55eeed066280.svg",
-    "index.html": "/challenge-frontend-fpass/index.html",
-    "main.c5fca71f.css.map": "/challenge-frontend-fpass/static/css/main.c5fca71f.css.map",
-    "main.b0b7fa39.js.map": "/challenge-frontend-fpass/static/js/main.b0b7fa39.js.map"
+    "main.css": "/Marvel-Heroes-Search-App/static/css/main.c5fca71f.css",
+    "main.js": "/Marvel-Heroes-Search-App/static/js/main.5b978598.js",
+    "static/media/logo.svg": "/Marvel-Heroes-Search-App/static/media/logo.be1f937a60f9541049ba55eeed066280.svg",
+    "index.html": "/Marvel-Heroes-Search-App/index.html",
+    "main.c5fca71f.css.map": "/Marvel-Heroes-Search-App/static/css/main.c5fca71f.css.map",
+    "main.5b978598.js.map": "/Marvel-Heroes-Search-App/static/js/main.5b978598.js.map"
   },
   "entrypoints": [
     "static/css/main.c5fca71f.css",
-    "static/js/main.b0b7fa39.js"
+    "static/js/main.5b978598.js"
   ]
 }
