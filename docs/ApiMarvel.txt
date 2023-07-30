@@ -1,0 +1,14 @@
+Crie uma aplicação utilizando a API da Marvel para que pesquise/liste os heróis pelo nome ou parte do nome do herói.
+
+A aplicação deve conter 3 telas, no qual :
+
+1. Uma tela de pesquisa pelo nome ou parte do nome do herói.
+2. Uma tela para Listagem do herói com sua thumbnail.
+3. Uma Página com informações sobre o herói selecionado (descrição).
+
+Devem ser utilizado as seguintes tecnologias e padrões:
+
+- Styled components
+- React
+- TypeScript
+- Fetch API

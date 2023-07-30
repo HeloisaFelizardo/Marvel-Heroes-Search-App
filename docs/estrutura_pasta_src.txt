@@ -1,0 +1,22 @@
+dir /s /b > estrutura_pasta.txt
+
+src
+├── api
+│   └── marvelApi.ts
+├── App.tsx
+├── components
+│   ├── HeroDetails
+│   │   ├── index.tsx
+│   │   └── styles.tsx
+│   ├── HeroList
+│   │   ├── index.tsx
+│   │   └── styles.tsx
+│   └── HeroSearch
+│       ├── index.tsx
+│       └── styles.tsx
+├── index.css
+├── index.tsx
+├── logo.svg
+├── setupProxy.js
+└── styles
+    └── global.ts

@@ -1,0 +1,21 @@
+//No diretório do projeto src digite o comando: dir /s /b > lista_de_caminhos.txt
+
+src\api
+src\App.tsx
+src\components
+src\index.css
+src\index.tsx
+src\logo.svg
+src\setupProxy.js
+src\styles
+src\api\marvelApi.ts
+src\components\HeroDetails
+src\components\HeroList
+src\components\HeroSearch
+src\components\HeroDetails\index.tsx
+src\components\HeroDetails\styles.tsx
+src\components\HeroList\index.tsx
+src\components\HeroList\styles.tsx
+src\components\HeroSearch\index.tsx
+src\components\HeroSearch\styles.tsx
+src\styles\global.ts
