@@ -3,7 +3,7 @@
 	"version": "0.1.0",
 	"author": "Heloisa Felizardo",
 	"private": true,
-	"homepage": "https://heloisafelizardo.github.io/challenge-frontend-fpass",
+	"homepage": "https://heloisafelizardo.github.io/Marvel-Heroes-Search-App/",
 	"dependencies": {
 		"@testing-library/react": "^13.4.0",
 		"@testing-library/user-event": "^13.5.0",
